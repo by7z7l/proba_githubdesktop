@@ -3,3 +3,4 @@ létrehozhatóak saját tipusok amiket egymás mőgé rakhat a felhasználó.
 A második a nyüstök váltásának ritmusa(ritmus.jpg), ugyancsak kézzel beálitott szekciókra osztható.
 Mind két bemenet szügség szerint ismétlődik hogy kitöltse a teljes szövetet.
 A szálak szine, jelen állásban nem számit, de a müködö fekete fehér rendszert már könnyű lesz kiegészíteni.
+Bemeneteten nem lehet bevinni érvénytelen adatokat.
